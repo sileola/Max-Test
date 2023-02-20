@@ -71,5 +71,9 @@ The following sections explain, in further details, the salient points of the wo
     6. Testing the code:
        
          `run: npm test`
-         
-    The command above is used to run test
+
+    The command above is used to run test.
+
+The CI pipeline was successful and the repo link is provided below:
+
+    [CI Repo link](https://github.com/sileola/Max-Test.git)
