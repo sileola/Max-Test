@@ -7,7 +7,7 @@ Overview: This task is aimed a configuring a GitHub Actions workflow that can bu
 
 The entire workflow is shown in the image below:
 
-![](./images/CI_workflow.PNG 'Entire CI Workflow')
+![CI WORKFLOW IMAGE](./images/workflow.PNG 'Entire CI Workflow')
 The following sections explain, in further details, the salient points of the workflow.
 
 
