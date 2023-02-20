@@ -15,14 +15,14 @@ The following sections explain, in further details, the salient points of the wo
 
     This input to this syntax is optional however, it is a good practice to give a concise but descriptive overview of what the entire workflow intends to achieve.
 
-*   on:
-        push:
+*       on:
+            push:
 
-            **branches: [ "main" ]
+                branches: [ "main" ]
 
-        pull_request:
+            pull_request:
 
-            branches: [ "main" ]**
+                branches: [ "main" ]
 
     The section above decribes the event that should trigger the workflow. In this case, the workflow is triggered anything someone pushes to the "main" branch or everytime a pull request is created with 'main' branch as a target.
 
