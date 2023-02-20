@@ -74,6 +74,12 @@ The following sections explain, in further details, the salient points of the wo
 
     The command above is used to run test.
 
-The CI pipeline was successful and the repo link is provided below:
+
+The
+
+The CI pipeline was successful, as shown below:
+ and the repo link is provided below:
+
+ ![CI Pipeline](./images/pipeline.PNG 'CI Pipeline')
 
 [GitHub Actions CI Repository Link](https://github.com/sileola/Max-Test.git)
