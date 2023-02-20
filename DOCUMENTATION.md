@@ -11,5 +11,5 @@ The entire workflow is shown in the image below:
 The following sections explain, in further details, the salient points of the workflow.
 
 
-* 
+* This
 
