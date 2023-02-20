@@ -76,4 +76,4 @@ The following sections explain, in further details, the salient points of the wo
 
 The CI pipeline was successful and the repo link is provided below:
 
-    [CI Repo link](https://github.com/sileola/Max-Test.git)
+    ![CI Repo link](https://github.com/sileola/Max-Test.git)
