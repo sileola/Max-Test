@@ -1,5 +1,5 @@
 ___
-**QUESTION #1: EXPLAIN CI/CD**
+**QUESTION #1: Explain CI/CD**
 ___
 
 #### **ANSWER:**
