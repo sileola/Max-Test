@@ -11,7 +11,7 @@ The entire workflow is shown in the image below:
 The following sections explain, in further details, the salient points of the workflow shown above.
 
 
-*   **name: CI PIPELINE FOR A TODO APP**
+*       name: CI PIPELINE FOR A TODO APP**
 
     This input to this syntax is optional however, it is a good practice to give a concise but descriptive overview of what the entire workflow intends to achieve.
 
@@ -42,7 +42,7 @@ The following sections explain, in further details, the salient points of the wo
     This workflow includes a matrix strategy that builds and tests the code with three Node.js versions: 14.x, 16.x and 18.x. The 'x' is a wildcard character that matches the latest minor and patch release available for a version. Each version of Node.js specified in the node-version array creates a job that runs the same steps.
 
 
-* **Steps:**
+*       Steps:
 
     Steps represent a sequence of tasks that will be executed as part of the job.
       
