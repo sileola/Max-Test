@@ -11,7 +11,7 @@ The entire workflow is shown in the image below:
 The following sections explain, in further details, the salient points of the workflow shown above.
 
 
-*       name: CI PIPELINE FOR A TODO APP**
+*       name: CI PIPELINE FOR A TODO APP
 
     This input to this syntax is optional however, it is a good practice to give a concise but descriptive overview of what the entire workflow intends to achieve.
 
