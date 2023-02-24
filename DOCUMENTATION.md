@@ -29,7 +29,7 @@ The following sections explain, in further details, the salient points of the wo
     This is the part that gets executed when the workflow is triggered. A workflow run is made up of one or more jobs that can run sequentially or in parallel. This workflow contains a single job and the job is called 'build'
 
 
-* **runs-on: ubuntu-latest**
+*       runs-on: ubuntu-latest
 
     This syntax describes type of runner(or Operating System) that the job will run on. This job will run on Linux. You can change the runs-on key to run your jobs on a different operating system. For Windows and MacOS, the syntax is `runs-on: windows-latest` and `runs-on: macos-latest` respecetively.
 
