@@ -37,7 +37,7 @@ The following sections explain, in further details, the salient points of the wo
 *       strategy:
             matrix:
              node-version: [14.x, 16.x, 18.x]
-    This syntax is used to specify the Nide.js version using a matrix strategy (Node.js version can also be specified using the `setup-node` action).
+    This syntax is used to specify the Node.js version using a matrix strategy (Node.js version can also be specified using the `setup-node` action).
     
     This workflow includes a matrix strategy that builds and tests the code with three Node.js versions: 14.x, 16.x and 18.x. The 'x' is a wildcard character that matches the latest minor and patch release available for a version. Each version of Node.js specified in the node-version array creates a job that runs the same steps.
 
